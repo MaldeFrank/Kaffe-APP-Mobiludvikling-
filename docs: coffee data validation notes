@@ -1,0 +1,19 @@
+Validering af kaffedata
+
+Formål
+
+Formålet er at sikre, at kaffedataene er organiserede og indeholder de nødvendige oplysninger til kaffe-appen.
+
+Kontrol af data
+
+Kontrollér, hvilke felter der findes i datasættet.
+
+Undersøg, om der mangler værdier.
+
+Identificér ugyldige eller inkonsistente værdier.
+
+Dokumentér eventuelle problemer, der skal rettes.
+
+Resultat
+
+Valideringen skal hjælpe med at sikre, at kaffedataene kan bruges til at understøtte brugerens smagsprofil og kaffeanbefalinger.
